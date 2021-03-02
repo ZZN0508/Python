@@ -1,0 +1,6 @@
+kNN 简单的k邻近算法
+appointment 使用k邻近算法设计的约会系统
+handwriting 使用k邻近算法手写识别
+datingTestSet.txt 约会数据集
+testDigits 手写识别测试集
+trainingDigits 手写识别训练集

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/learn" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/machine" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/logistic-regression-master" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/math_model" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tensorflow_py" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sentence-similarity" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/text2vec-master" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bert_textMatching-master" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/neural_network" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/machine_learning_combat" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/pdf_transform" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/machine_learning_combat/k_proximity_algorithm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/machine_learning_combat/decision_making_tree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/neural_keras_python" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/neural_keras_python/Dense_all_link" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/pytorch-deeplab-xception-master/modeling" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/pytorch-deeplab-xception-master/doc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/pytorch-deeplab-xception-master/modeling/sync_batchnorm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/pytorch-deeplab-xception-master/modeling/backbone" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DeepLabV3/Synchronized-BatchNorm-PyTorch-master/sync_batchnorm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DeepLabV3/Synchronized-BatchNorm-PyTorch-master/tests" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.8 (base)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="renderExternalDocumentation" value="true" />
+  </component>
+</module>
